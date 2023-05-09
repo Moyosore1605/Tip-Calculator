@@ -1,0 +1,20 @@
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    background-color:green;
+    border-radius:5px;
+    padding:5px;
+    border: none;
+}
+div{
+    display:flex;
+    flex-direction: column;
+}
+input{
+    margin:10px 0px;
+    width:300px;
+}
